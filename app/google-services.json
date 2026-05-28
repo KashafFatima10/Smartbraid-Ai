@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212593853750",
+    "project_id": "salon-app-5b5bc",
+    "storage_bucket": "salon-app-5b5bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212593853750:android:05b663afbeda6aa8e25f97",
+        "android_client_info": {
+          "package_name": "com.example.smartbraidai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212593853750-1p9tth3tmp9c9s8lvan0gdh1roq92f53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCxo068CFQ7CwdXXMa38yumO9oMcrNAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212593853750-1p9tth3tmp9c9s8lvan0gdh1roq92f53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
